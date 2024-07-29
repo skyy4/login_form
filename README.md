@@ -3,6 +3,10 @@ This repository contains loginPage that were developed to help developers learn 
 
 # Project
 <a href="https://p2skyy4.netlify.app/">loginPage</a>
+<br>
+![p2 (1)](https://github.com/user-attachments/assets/c6a6e12d-6bc8-432e-b17f-cf34f7ff01d9)
+
+
 
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
